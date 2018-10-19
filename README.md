@@ -1,5 +1,8 @@
 # Star Wars Guia
+
 Aplicação dos estudos em android com a criação de um app com uma api aberta de star wars.
+
+* Api aberta utilizada https://swapi.co/ - https://github.com/swapi4j/swapi4j-client
 
 ## Pendências
 
