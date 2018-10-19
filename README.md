@@ -8,3 +8,5 @@ Aplicação dos estudos em android com a criação de um app com uma api aberta 
 - [ ] BoottomNavigationMenu - Menu na parte de baixo
 - [ ] Fragments - Telas de Menu
 - [ ] Pagging - Biblioteca de Paginação
+- [ ] Começar com ListView e mudar para RecycleView
+
