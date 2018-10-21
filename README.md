@@ -12,4 +12,8 @@ Aplicação dos estudos em android com a criação de um app com uma api aberta 
 - [ ] Fragments - Telas de Menu
 - [ ] Pagging - Biblioteca de Paginação
 - [ ] Começar com ListView e mudar para RecycleView
+- [ ] Usar fonte de Star Wars
+- [x] Usar SDK-Android swapi4j-client
+- [ ] Adicionar splash screen
+
 
